@@ -1,1 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?How is the staging area different from the working directory and the repository? What value do you think it offers?
+git config --global core.editor "'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -n -w"
+commit 25ede836903881848fea811df5b687b59d962da3
+commit df035382c41b4d0cda86a1aa30b53f15bef05b53
+How can you use the staging area to make sure you have one commit per logical change?
